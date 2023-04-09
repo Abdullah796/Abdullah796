@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Abdullah796
-- I’m a junior software engineer 
+
+- I'm graduated from NED university, Karachi, Pakistan.
+- I'm a full-stack engineer.
 - I have expertise on Flutter, Java(Spring boot, MySQl) and python.
 - I have build mobile apps on flutter with java rest apis.
-- I am in third year of NED university, Karachi, Pakistan.
 
 - 📫 How to reach me: abdullahabrar796@gmail.com
 
